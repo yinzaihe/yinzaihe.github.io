@@ -1,17 +1,15 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+date: today
 categories: jekyll update
 ---
 
 #hi, this is first posting at yinzaihe.github.io, in bali
-#reference
 
 https://github.com/mmistakes/minimal-mistakes/blob/master/index.html
-
 https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
 
-/*
+
 
 이 글에서 소개드린 방법의 핵심은 jekyll remote theme이었습니다. Jekyll remote theme은 GitHub에 공개되어 있는 어떤 Jekyll 테마든지 가져와서 쓸 수 있도록 하는 Jekyll의 플러그인입니다. Jekyll remote theme이 GitHub Pages에 내장되어 있었기 때문에 이 글에서 소개한 방법이 가능했던 것입니다.
 
@@ -19,4 +17,4 @@ https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
 
 커스터마이징을 하지 않고 이미 공개된 테마를 그대로 쓰고 싶다면 remote theme은 최소한의 설정으로 원하는 Jekyll 테마를 사용할 수 있는 쉽고 빠른 방법입니다.
 
-*/
+
