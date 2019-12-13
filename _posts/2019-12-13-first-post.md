@@ -1,11 +1,12 @@
 ---
 title: "Welcome to Jekyll!"
-date: today
-categories: jekyll update
+date:
+categories: categories
 ---
 
 #hi, this is first posting at yinzaihe.github.io, in bali
 
+#reference
 https://github.com/mmistakes/minimal-mistakes/blob/master/index.html
 https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
 
